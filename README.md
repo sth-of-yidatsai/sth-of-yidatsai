@@ -5,7 +5,7 @@ Typography · Editorial Design · Open Source
 
 ---
 
-蔡易達（YI-DA TSAI）是一位來自台北的視覺設計師與前端開發者，  
+蔡易達（YI-DA TSAI）是一位來自台北的視覺設計師與前端工程師，  
 專注於字體設計（Typography）與編輯設計（Editorial Design），  
 致力於在視覺語言與數位體驗之間建立清晰且有結構的連結。
 
